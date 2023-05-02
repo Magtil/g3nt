@@ -11,7 +11,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/math32"
 	"github.com/golang/freetype/truetype"
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"

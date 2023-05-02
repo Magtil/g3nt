@@ -5,7 +5,7 @@
 package constraint
 
 import (
-	"github.com/Magtil/g3n/experimental/physics/equation"
+	"github.com/Magtil/g3nt/experimental/physics/equation"
 )
 
 // Distance is a distance constraint.

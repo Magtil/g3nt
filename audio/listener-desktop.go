@@ -8,10 +8,10 @@
 package audio
 
 import (
-	"github.com/Magtil/g3n/audio/al"
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/audio/al"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // Listener is an audio listener positioned in space.

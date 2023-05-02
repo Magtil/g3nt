@@ -5,10 +5,10 @@
 package physics
 
 import (
-	"github.com/Magtil/g3n/experimental/collision/shape"
-	"github.com/Magtil/g3n/experimental/physics/equation"
-	"github.com/Magtil/g3n/experimental/physics/object"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/experimental/collision/shape"
+	"github.com/Magtil/g3nt/experimental/physics/equation"
+	"github.com/Magtil/g3nt/experimental/physics/object"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // Narrowphase

@@ -9,7 +9,7 @@
 package equation
 
 import (
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // IBody is the interface of all body types.

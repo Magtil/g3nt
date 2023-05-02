@@ -7,10 +7,10 @@ package camera
 import (
 	"math"
 
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/gui"
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/window"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/gui"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/window"
 )
 
 // OrbitEnabled specifies which control types are enabled.

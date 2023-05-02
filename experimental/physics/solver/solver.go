@@ -6,8 +6,8 @@
 package solver
 
 import (
-	"github.com/Magtil/g3n/experimental/physics/equation"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/experimental/physics/equation"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // ISolver is the interface type for all constraint solvers.

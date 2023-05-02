@@ -8,8 +8,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // INode is the interface for all node types.

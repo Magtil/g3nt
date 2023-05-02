@@ -7,9 +7,9 @@ package graphic
 import (
 	"strconv"
 
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // MaxBoneInfluencers is the maximum number of bone influencers per vertex.

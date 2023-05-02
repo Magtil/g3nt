@@ -7,7 +7,7 @@ package gui
 import (
 	"fmt"
 
-	"github.com/Magtil/g3n/window"
+	"github.com/Magtil/g3nt/window"
 )
 
 // TabBar is a panel which can contain other panels arranged in horizontal Tabs.

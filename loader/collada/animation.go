@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // AnimationTarget contains all animation channels for an specific target node

@@ -4,7 +4,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/Magtil/g3n/gls"
+	"github.com/Magtil/g3nt/gls"
 )
 
 // Stats contains several statistics useful for performance evaluation

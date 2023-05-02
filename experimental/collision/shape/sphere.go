@@ -4,7 +4,7 @@
 
 package shape
 
-import "github.com/Magtil/g3n/math32"
+import "github.com/Magtil/g3nt/math32"
 
 // Sphere is an analytical collision sphere.
 type Sphere struct {

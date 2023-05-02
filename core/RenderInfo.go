@@ -5,7 +5,7 @@
 package core
 
 import (
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // RenderInfo is passed into Render/RenderSetup calls

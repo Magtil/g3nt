@@ -12,7 +12,7 @@ import (
 	"os"
 	"unicode/utf8"
 
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // CharInfo contains the information to locate a character in an Atlas

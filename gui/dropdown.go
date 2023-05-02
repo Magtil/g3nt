@@ -5,7 +5,7 @@
 package gui
 
 import (
-	"github.com/Magtil/g3n/gui/assets/icon"
+	"github.com/Magtil/g3nt/gui/assets/icon"
 )
 
 // DropDown represents a dropdown GUI element.

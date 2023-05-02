@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/window"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/window"
 )
 
 // manager singleton

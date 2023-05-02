@@ -6,7 +6,7 @@
 // WARNING: Parts of this package are experimental and incomplete!
 package collision
 
-import "github.com/Magtil/g3n/geometry"
+import "github.com/Magtil/g3nt/geometry"
 
 // TODO collision checking function dependent on collision shapes
 

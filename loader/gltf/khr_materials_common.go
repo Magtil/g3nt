@@ -1,9 +1,9 @@
 package gltf
 
 import (
-	"github.com/Magtil/g3n/material"
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/texture"
+	"github.com/Magtil/g3nt/material"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/texture"
 )
 
 // loadMaterialCommon receives an interface value describing a KHR_materials_common extension,

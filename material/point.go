@@ -5,7 +5,7 @@
 package material
 
 import (
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // Point material is normally used for single point sprites

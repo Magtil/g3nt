@@ -7,7 +7,7 @@ package gui
 import (
 	"math"
 
-	"github.com/Magtil/g3n/window"
+	"github.com/Magtil/g3nt/window"
 )
 
 // ItemScroller is the GUI element that allows scrolling of IPanels

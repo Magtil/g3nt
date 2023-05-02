@@ -3,8 +3,8 @@ package gltf
 import (
 	"fmt"
 
-	"github.com/Magtil/g3n/material"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/material"
+	"github.com/Magtil/g3nt/math32"
 )
 
 func (g *GLTF) loadMaterialPBR(m *Material) (material.IMaterial, error) {

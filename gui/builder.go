@@ -12,9 +12,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Magtil/g3n/gui/assets/icon"
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/window"
+	"github.com/Magtil/g3nt/gui/assets/icon"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/window"
 	"gopkg.in/yaml.v2"
 )
 

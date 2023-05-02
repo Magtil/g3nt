@@ -5,10 +5,10 @@
 package graphic
 
 import (
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/geometry"
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/material"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/geometry"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/material"
 )
 
 // Lines is a Graphic which is rendered as a collection of independent lines.

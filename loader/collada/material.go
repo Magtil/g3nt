@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Magtil/g3n/material"
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/texture"
+	"github.com/Magtil/g3nt/material"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/texture"
 )
 
 // GetMaterial returns a pointer to an instance of the material

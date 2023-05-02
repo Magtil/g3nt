@@ -7,7 +7,7 @@ package texture
 import (
 	"time"
 
-	"github.com/Magtil/g3n/gls"
+	"github.com/Magtil/g3nt/gls"
 )
 
 // Animator can generate a texture animation based on a texture sheet

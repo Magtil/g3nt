@@ -5,9 +5,9 @@
 package material
 
 import (
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/texture"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/texture"
 )
 
 // Physical is a physically based rendered material which uses the metallic-roughness model.

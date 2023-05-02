@@ -5,13 +5,13 @@
 package physics
 
 import (
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/experimental/collision"
-	"github.com/Magtil/g3n/geometry"
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/graphic"
-	"github.com/Magtil/g3n/material"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/experimental/collision"
+	"github.com/Magtil/g3nt/geometry"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/graphic"
+	"github.com/Magtil/g3nt/material"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // This file contains helpful infrastructure for debugging physics

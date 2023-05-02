@@ -5,7 +5,7 @@
 // Package renderer implements the scene renderer.
 package renderer
 
-import "github.com/Magtil/g3n/gls"
+import "github.com/Magtil/g3nt/gls"
 
 type Postprocessor struct {
 	Width    int32

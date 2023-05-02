@@ -1,7 +1,7 @@
 package gltf
 
 import (
-	"github.com/Magtil/g3n/material"
+	"github.com/Magtil/g3nt/material"
 )
 
 // TODO

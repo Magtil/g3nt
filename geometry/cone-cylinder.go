@@ -7,8 +7,8 @@ package geometry
 import (
 	"math"
 
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // NewCone creates a cone geometry with the specified base radius, height,

@@ -8,15 +8,15 @@ package renderer
 import (
 	"sort"
 
-	"github.com/Magtil/g3n/camera"
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/graphic"
-	"github.com/Magtil/g3n/gui"
-	"github.com/Magtil/g3n/light"
-	"github.com/Magtil/g3n/material"
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/util/logger"
+	"github.com/Magtil/g3nt/camera"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/graphic"
+	"github.com/Magtil/g3nt/gui"
+	"github.com/Magtil/g3nt/light"
+	"github.com/Magtil/g3nt/material"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/util/logger"
 )
 
 // Package logger

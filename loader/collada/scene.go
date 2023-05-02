@@ -8,11 +8,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/graphic"
-	"github.com/Magtil/g3n/material"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/graphic"
+	"github.com/Magtil/g3nt/material"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // NewScene returns a new collada empty scene

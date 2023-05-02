@@ -5,9 +5,9 @@
 package shape
 
 import (
-	"github.com/Magtil/g3n/experimental/collision"
-	"github.com/Magtil/g3n/geometry"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/experimental/collision"
+	"github.com/Magtil/g3nt/geometry"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // ConvexHull is a convex triangle-based geometry used for collision detection and contact resolution.

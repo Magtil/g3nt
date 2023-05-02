@@ -5,8 +5,8 @@
 package texture
 
 import (
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // NewBoard creates and returns a pointer to a new checker board 2D texture.

@@ -7,8 +7,8 @@ package gui
 import (
 	"path/filepath"
 
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/window"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/window"
 )
 
 // buildPanel builds an object of type Panel

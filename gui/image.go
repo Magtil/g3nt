@@ -7,7 +7,7 @@ package gui
 import (
 	"image"
 
-	"github.com/Magtil/g3n/texture"
+	"github.com/Magtil/g3nt/texture"
 )
 
 // Image is a Panel which contains a single Image

@@ -7,8 +7,8 @@ package geometry
 import (
 	"math"
 
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // NewTorus creates a torus geometry with the specified revolution radius, tube radius,

@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/text"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/text"
 )
 
 // Style contains the styles for all GUI elements

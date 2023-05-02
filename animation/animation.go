@@ -5,7 +5,7 @@
 // Package animation
 package animation
 
-import "github.com/Magtil/g3n/util/logger"
+import "github.com/Magtil/g3nt/util/logger"
 
 // Package logger
 var log = logger.New("ANIMATION", logger.Default)

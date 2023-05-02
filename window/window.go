@@ -9,9 +9,9 @@ package window
 import (
 	"fmt"
 
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/util/logger"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/util/logger"
 )
 
 // Package logger

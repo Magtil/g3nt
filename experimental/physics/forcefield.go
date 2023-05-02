@@ -4,7 +4,7 @@
 
 package physics
 
-import "github.com/Magtil/g3n/math32"
+import "github.com/Magtil/g3nt/math32"
 
 // ForceField represents a force field. A force is defined for every point.
 type ForceField interface {

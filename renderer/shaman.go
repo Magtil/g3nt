@@ -11,9 +11,9 @@ import (
 
 	"strconv"
 
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/material"
-	"github.com/Magtil/g3n/renderer/shaders"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/material"
+	"github.com/Magtil/g3nt/renderer/shaders"
 )
 
 // Regular expression to parse #include <name> [quantity] directive

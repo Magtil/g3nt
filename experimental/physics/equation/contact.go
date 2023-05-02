@@ -5,7 +5,7 @@
 package equation
 
 import (
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // Contact is a contact/non-penetration constraint equation.

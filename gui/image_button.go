@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/Magtil/g3n/texture"
-	"github.com/Magtil/g3n/window"
+	"github.com/Magtil/g3nt/texture"
+	"github.com/Magtil/g3nt/window"
 )
 
 // ImageButton represents an image button GUI element

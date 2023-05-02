@@ -5,7 +5,7 @@
 package light
 
 import (
-	"github.com/Magtil/g3n/util/logger"
+	"github.com/Magtil/g3nt/util/logger"
 )
 
 // Package logger

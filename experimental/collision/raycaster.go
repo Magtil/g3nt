@@ -7,12 +7,12 @@ package collision
 import (
 	"sort"
 
-	"github.com/Magtil/g3n/camera"
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/graphic"
-	"github.com/Magtil/g3n/material"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/camera"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/graphic"
+	"github.com/Magtil/g3nt/material"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // Raycaster represents an empty object that can cast rays and check for ray intersections.

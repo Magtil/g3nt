@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/text"
-	"github.com/Magtil/g3n/window"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/text"
+	"github.com/Magtil/g3nt/window"
 )
 
 // Edit represents a text edit box GUI element

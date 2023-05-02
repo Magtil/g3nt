@@ -5,9 +5,9 @@
 package animation
 
 import (
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/geometry"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/geometry"
+	"github.com/Magtil/g3nt/math32"
 	tlog "github.com/Magtil/taleser/to/logger"
 )
 

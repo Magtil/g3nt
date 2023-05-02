@@ -7,8 +7,8 @@ package gui
 import (
 	"reflect"
 
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/window"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/window"
 )
 
 // Tree is the tree structure GUI element.

@@ -4,7 +4,7 @@
 
 package collision
 
-import "github.com/Magtil/g3n/math32"
+import "github.com/Magtil/g3nt/math32"
 
 // Contact describes a contact point, normal, and depth.
 type Contact struct {

@@ -15,9 +15,9 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/gui/assets"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/gui/assets"
 	"github.com/go-gl/glfw/v3.3/glfw"
 )
 

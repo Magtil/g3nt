@@ -5,8 +5,8 @@
 package light
 
 import (
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/gls"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/gls"
 )
 
 // ILight is the interface that must be implemented for all light types.

@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/window"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/window"
 )
 
 // Scroller is the GUI element that allows scrolling of a target IPanel.

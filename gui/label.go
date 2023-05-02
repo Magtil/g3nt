@@ -5,10 +5,10 @@
 package gui
 
 import (
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/math32"
-	"github.com/Magtil/g3n/text"
-	"github.com/Magtil/g3n/texture"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/math32"
+	"github.com/Magtil/g3nt/text"
+	"github.com/Magtil/g3nt/texture"
 )
 
 // Label is a panel which contains a texture with text.

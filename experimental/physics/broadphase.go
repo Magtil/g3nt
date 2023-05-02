@@ -6,7 +6,7 @@
 package physics
 
 import (
-	"github.com/Magtil/g3n/experimental/physics/object"
+	"github.com/Magtil/g3nt/experimental/physics/object"
 )
 
 // CollisionPair is a pair of bodies that may be colliding.

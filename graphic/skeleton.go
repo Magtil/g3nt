@@ -5,8 +5,8 @@
 package graphic
 
 import (
-	"github.com/Magtil/g3n/core"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/core"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // Skeleton contains armature information.

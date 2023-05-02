@@ -4,7 +4,7 @@
 
 package window
 
-import "github.com/Magtil/g3n/core"
+import "github.com/Magtil/g3nt/core"
 
 // KeyState keeps track of the state of all keys.
 type KeyState struct {

@@ -14,9 +14,9 @@ import (
 	_ "image/png"
 	"os"
 
-	"github.com/Magtil/g3n/util/logger"
+	"github.com/Magtil/g3nt/util/logger"
 
-	"github.com/Magtil/g3n/gls"
+	"github.com/Magtil/g3nt/gls"
 )
 
 // Package logger

@@ -13,8 +13,8 @@ import (
 	"os"
 	"unsafe"
 
-	"github.com/Magtil/g3n/audio/al"
-	"github.com/Magtil/g3n/audio/ov"
+	"github.com/Magtil/g3nt/audio/al"
+	"github.com/Magtil/g3nt/audio/ov"
 )
 
 const (

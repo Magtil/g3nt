@@ -1,8 +1,8 @@
 package stats
 
 import (
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/gui"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/gui"
 )
 
 // StatsTable is a gui.Table panel with statistics

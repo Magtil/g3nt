@@ -9,9 +9,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/Magtil/g3n/geometry"
-	"github.com/Magtil/g3n/gls"
-	"github.com/Magtil/g3n/math32"
+	"github.com/Magtil/g3nt/geometry"
+	"github.com/Magtil/g3nt/gls"
+	"github.com/Magtil/g3nt/math32"
 )
 
 // GetGeometry returns a pointer to an instance of the geometry

@@ -9,7 +9,7 @@ package gls
 
 import (
 	"fmt"
-	"github.com/Magtil/g3n/util/wasm"
+	"github.com/Magtil/g3nt/util/wasm"
 	"syscall/js"
 	"unsafe"
 )

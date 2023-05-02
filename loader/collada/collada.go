@@ -11,9 +11,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/Magtil/g3n/geometry"
-	"github.com/Magtil/g3n/material"
-	"github.com/Magtil/g3n/texture"
+	"github.com/Magtil/g3nt/geometry"
+	"github.com/Magtil/g3nt/material"
+	"github.com/Magtil/g3nt/texture"
 )
 
 // Decoder contains all decoded data from collada file
