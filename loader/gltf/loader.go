@@ -28,7 +28,7 @@ import (
 	"github.com/Magtil/g3nt/material"
 	"github.com/Magtil/g3nt/math32"
 	"github.com/Magtil/g3nt/texture"
-	tlog "github.com/Magtil/taleser/to/logger"
+	tlog "gitlab.com/magtil/rpgio/logger"
 )
 
 var msg = tlog.Logger{}
