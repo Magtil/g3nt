@@ -8,7 +8,7 @@ import (
 	"github.com/Magtil/g3nt/core"
 	"github.com/Magtil/g3nt/geometry"
 	"github.com/Magtil/g3nt/math32"
-	tlog "github.com/Magtil/taleser/to/logger"
+	tlog "gitlab.com/magtil/rpgio/util/logger"
 )
 
 var msg = tlog.Logger{}
@@ -118,7 +118,7 @@ type NodeChannel struct {
 type PositionChannel NodeChannel
 
 func NewPositionChannel(node core.INode) *PositionChannel {
-	msg.Debug("NewPositionChannel node:%+v", node.Name())
+	//msg.Debug("NewPositionChannel node:%+v", node.Name())
 	pc := new(PositionChannel)
 	pc.target = node
 	pc.updateInterpAction = func() {

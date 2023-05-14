@@ -1,4 +1,4 @@
-module github.com/Magtil/g3n
+module github.com/Magtil/g3nt
 
 go 1.13
 
